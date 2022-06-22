@@ -16,7 +16,7 @@ use Illuminate\Support\Facades\Route;
 echo date('h:i:s') . "<br>";
 
 //sleep for 3 seconds
-sleep(60);
+sleep(120);
 
 //start again
 echo date('h:i:s');
