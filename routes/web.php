@@ -16,11 +16,11 @@ use Illuminate\Support\Facades\Route;
 echo date('h:i:s') . "<br>";
 
 //sleep for 3 seconds
-sleep(20);
+sleep(300);
 
 //start again
-echo date('h:i:s');
+echo date('h:i:s') . "<br>";
 
 Route::get('/', function () {
-    return  "hello good sir, today is 22062022-4";
+    return  "hello good sir, today is 22062022-6";
 });
