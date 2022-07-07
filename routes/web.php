@@ -12,7 +12,7 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
-
+//this is the where the sleep function starts:
 echo date('h:i:s') . "<br>";
 
 //sleep for 10min
