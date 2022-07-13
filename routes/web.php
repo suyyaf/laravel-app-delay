@@ -20,6 +20,8 @@ echo date('h:i:s') . "<br>";
 
 //start again
 echo date('h:i:s') . "<br>";
+echo date('h:i:s') . "<br>";
+
 
 Route::get('/', function () {
     return  "hello good sir, today is 23062022-1";
