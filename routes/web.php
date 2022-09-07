@@ -24,5 +24,5 @@ echo date('h:i:s') . "<br>";
 
 
 Route::get('/', function () {
-    return  "hello good sir, today is 23062022-1";
+    return  "hello good sir, today is 07092022";
 });
